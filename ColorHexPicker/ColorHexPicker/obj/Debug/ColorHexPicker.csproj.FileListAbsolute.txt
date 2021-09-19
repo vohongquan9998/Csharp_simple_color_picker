@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\bin\Debug\ColorHexPicker.exe
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\bin\Debug\ColorHexPicker.pdb
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.Form1.resources
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.exe
+C:\Users\ADMIN\source\repos\ColorHexPicker\ColorHexPicker\obj\Debug\ColorHexPicker.pdb
