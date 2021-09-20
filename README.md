@@ -1,3 +1,5 @@
 # Csharp_simple_color_picker
 
-![5](https://user-images.githubusercontent.com/71002261/133932605-16552f07-0fa8-47ca-8113-f5c784aae313.png)
+
+![55](https://user-images.githubusercontent.com/71002261/133956543-7394448e-2bf6-4d13-bb47-9913747dfc10.png)
+
